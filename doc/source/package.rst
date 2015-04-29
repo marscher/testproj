@@ -1,0 +1,5 @@
+package doc
+-----------
+
+
+.. automodule:: package
