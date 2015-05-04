@@ -3,3 +3,4 @@ package doc
 
 
 .. automodule:: package
+
